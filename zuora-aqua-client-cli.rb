@@ -1,5 +1,5 @@
 class Spoon < Formula
-  desc "Run ZOQL queries through AQuA from the CLI"
+  desc "Run ZOQL queries through AQuA from the command line"
   homepage "https://github.com/molnarjani/zuora-aqua-client-cli"
   url "todo add this"
   sha256 "todo add this"
